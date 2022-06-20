@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew!
+- 👋 Hi, I’m Andrew Almeida!
 - 👀 I’m interested in climbing... and coding ! 🧗
 - 🌱 I’m currently learning full stack web development at LearningFuze
 - 💞️ I’m looking to collaborate on any and everything
