@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Andrew !
-- 👀 I’m interested in climbing... and coding ! 🧗
-- 🌱 I’m currently learning full stack web development at LearningFuze
-- 💞️ I’m looking to collaborate on any and everything
-- 📫 How to reach me 
+- Hello World, I’m Andrew Almeida! Pleasure to meet you 💫
+- I’m interested in coding... and climbing! 👨🏼‍💻 🧗🏽
+- I’m currently learning full stack web development at LearningFuze and it's been such a challenging, yet fun   and fulfilling experience.
+- I’m looking to collaborate on any and everything
+- How to reach me 
   - am.almeida000@gmail.com
 
 <!---
