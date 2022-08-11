@@ -1,7 +1,17 @@
-- Hello World, I’m Andrew Almeida! Pleasure to meet you 💫
-- I’m interested in coding... and climbing! 👨🏼‍💻 🧗🏽
-- I’m currently learning full stack web development at LearningFuze and it's been such a challenging, yet fun   and fulfilling experience.
-- I’m looking to collaborate on any and everything
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-M-A&hide=stars,issues,contribs)](https://github.com/Andrew-M-A/github-readme-stats)
+
+👋🏼 ABOUT ME
+
+Hello World, I’m Andrew Almeida! Pleasure to meet you 💫
+
+I’m currently learning full stack web development at LearningFuze and it's been such a challenging, yet fun, and fulfilling experience. Learning how to create full-stack apps is such a powerful tool to have. My goal is to continue learning and to bring to fruition, apps of community building.
+
+When I'm not learning and practicing code, I'm climbing! 🧗🏽
+
+  My first full stack app is based around this activity... please take a look! ⚡️
+  
+I’m looking to collaborate on any and everything 👨🏼‍💻
+
 - How to reach me 
   - am.almeida000@gmail.com
 
