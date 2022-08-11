@@ -1,5 +1,8 @@
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-M-A&hide=stars,issues,contribs)](https://github.com/Andrew-M-A/github-readme-stats)
 
+- Stack - React, Node, Express, JavaScript, HTML, CSS
+- Tools - NPM, PostgreSQL, GitHub, Slack
+
 ### 👋🏼 About Me
 ---
 
