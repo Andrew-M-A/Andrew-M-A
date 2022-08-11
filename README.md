@@ -1,6 +1,7 @@
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-M-A&hide=stars,issues,contribs)](https://github.com/Andrew-M-A/github-readme-stats)
 
-👋🏼 ABOUT ME
+### 👋🏼 About Me
+---
 
 Hello World, I’m Andrew Almeida! Pleasure to meet you 💫
 
@@ -12,8 +13,11 @@ When I'm not learning and practicing code, I'm climbing! 🧗🏽
   
 I’m looking to collaborate on any and everything 👨🏼‍💻
 
-- How to reach me 
-  - am.almeida000@gmail.com
+### ✉️ How to Reach Me
+---
+[LinkedIn](https://www.linkedin.com/in/andrew-almeida1/)
+
+am.almeida000@gmail.com
 
 <!---
 Andrew-M-A/Andrew-M-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
