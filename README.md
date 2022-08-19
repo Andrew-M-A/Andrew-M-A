@@ -14,7 +14,7 @@ When I'm not learning and practicing code, I'm climbing! 🧗🏽
 
   My first full stack app is based around this activity... please take a look! ⚡️
   
-I’m looking to collaborate on any and everything 👨🏼‍💻
+I’m looking to collaborate on any and everything!! 👨🏼‍💻
 
 ### ✉️ How to Reach Me
 ---
