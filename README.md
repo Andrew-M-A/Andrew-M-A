@@ -8,8 +8,11 @@
 Hello World, I’m Andrew Almeida! Pleasure to meet you 💫
 
 I’m currently a Web Designer at With. Company where we crowdsource community aid!
+
 withaid.org <--- here is a website I made using Webflow
+
 My goal is to continue learning and to bring to fruition, apps of community building.
+
 Giving back and helping in any way is a life goal of mine.
 
 When I'm not learning and practicing code, I'm climbing! 🧗🏽
