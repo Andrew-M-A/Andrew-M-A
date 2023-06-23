@@ -1,7 +1,5 @@
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-M-A&hide=stars,issues,contribs)](https://github.com/Andrew-M-A/github-readme-stats)
-
-- Stack - HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node, Express, PostgreSQL, SQL
-- Tools - GitHub, Slack, Notion, Figma, Webflow, NPM
+- Stack - HTML, CSS, Tailwind, JavaScript, React, Bootstrap, Node, Express, PostgreSQL, SQL
+- Tools - GitHub, Webflow, Figma, Notion, VSCode
 ### 👋🏼 About Me
 ---
 
