@@ -15,9 +15,7 @@ My goal is to continue learning and to bring to fruition, apps of community buil
 
 Giving back and helping in any way is a life goal of mine.
 
-When I'm not learning and practicing code, I'm climbing! 🧗🏽
-
-  My first full stack app is based around this activity... please take a look! ⚡️
+I'm a firm believer in Atomic Habits and how consistency, however small, can lead to exponential gains.
   
 I’m looking to collaborate on any and everything!! 👨🏼‍💻
 
