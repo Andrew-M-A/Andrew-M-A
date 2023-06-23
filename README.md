@@ -1,5 +1,3 @@
-- Stack - HTML, CSS, Tailwind, JavaScript, React, Bootstrap, Node, Express, PostgreSQL, SQL
-- Tools - GitHub, Webflow, Figma, Notion, VSCode
 ### 👋🏼 About Me
 ---
 
@@ -16,6 +14,11 @@ Giving back and helping in any way is a life goal of mine.
 I'm a firm believer in Atomic Habits and how consistency, however small, can lead to exponential gains.
   
 I’m looking to collaborate on any and everything!! 👨🏼‍💻
+
+### Technicals
+
+- Stack - HTML, CSS, Tailwind, JavaScript, React, Bootstrap, Node, Express, PostgreSQL, SQL
+- Tools - GitHub, Webflow, Figma, Notion, VSCode
 
 ### ✉️ How to Reach Me
 ---
