@@ -1,5 +1,4 @@
 ### 👋🏼 About Me
----
 
 Hello World, I’m Andrew Almeida! Pleasure to meet you 💫
 
