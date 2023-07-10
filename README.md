@@ -16,8 +16,8 @@ I’m looking to collaborate on any and everything!! 👨🏼‍💻
 
 ### Technicals
 
-- Stack - HTML, CSS, Tailwind, JavaScript, React, Bootstrap, Node, Express, PostgreSQL, SQL
-- Tools - GitHub, Webflow, Figma, Notion, VSCode
+- Stack - HTML, CSS, JavaScript, React, Tailwind, Bootstrap, Node, Express, PostgreSQL, SQL
+- Tools - VSCode, GitHub, Webflow, Figma, Notion
 
 ### ✉️ How to Reach Me
 ---
