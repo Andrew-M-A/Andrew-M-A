@@ -1,10 +1,6 @@
 ### 👋🏼 About Me
 
-Hello World, I’m Andrew Almeida! Pleasure to meet you 💫
-
-I’m currently a Web Designer at With. Company where we crowdsource community aid!
-
- # withaid.org <--- here is a website I made using Webflow
+Hello World, I’m Andrew
 
 My goal is to continue learning and to bring to fruition, apps of community building.
 
