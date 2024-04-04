@@ -3,10 +3,6 @@
 Hello World, I’m Andrew
 
 My goal is to continue learning and to bring to fruition, apps of community building.
-
-Giving back and helping in any way is a life goal of mine.
-
-I'm a firm believer in Atomic Habits and how consistency, however small, can lead to exponential gains.
   
 I’m looking to collaborate on any and everything!! 👨🏼‍💻
 
